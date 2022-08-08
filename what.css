@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'comic-sans';
+    src: url(fonts/Comic\ Sans\ MS.TTF);
+}
+  
+  div{
+    font-family: 'comic-sans';
+}
+body{
+    background-image: url("images/what/eternal-torment.gif");
+    background-color: #000000;
+}
+p{
+    font-family: 'comic-sans';
+    color: beige;
+}
