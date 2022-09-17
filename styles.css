@@ -68,3 +68,7 @@ ul{
 .omori{
     font-family: 'omori';
 }
+.unfinished{
+    color: rgb(234, 0, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
